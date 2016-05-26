@@ -1,0 +1,12 @@
+{
+  "name": "jakeblo-chart",
+  "description": "Basic Angular directive for ChartJS project for AngularJS",
+  "version": "0.0.1",
+  "homepage": "https://github.com/bart-blommaerts/jakeblo-chart",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "angular": "~1.4.0",
+    "chartjs": "~2.1.2"
+  }
+}
